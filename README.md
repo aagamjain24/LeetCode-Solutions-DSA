@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0009-palindrome-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0009-palindrome-number/) | Easy |
 | [0070-climbing-stairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0070-climbing-stairs/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Bit Manipulation
