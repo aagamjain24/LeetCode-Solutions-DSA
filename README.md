@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0258-add-digits](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
@@ -83,4 +84,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
