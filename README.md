@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0014-longest-common-prefix](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0020-valid-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0020-valid-parentheses/) | Easy |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -69,4 +70,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0020-valid-parentheses/) | Easy |
 <!---LeetCode Topics End-->
