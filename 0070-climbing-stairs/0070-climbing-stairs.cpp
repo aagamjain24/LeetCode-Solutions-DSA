@@ -1,17 +1,13 @@
 class Solution {
 public:
     int climbStairs(int n) {
-        if (n <= 2) return n;
-
-        int prev2 = 1; // ways to reach stair 1
-        int prev1 = 2; // ways to reach stair 2
-
-        for (int i = 3; i <= n; i++) {
-            int curr = prev1 + prev2;
-            prev2 = prev1;
-            prev1 = curr;
+        vector<int>ways(n+1,0);
+        ways[0]=1;
+        ways[1]=1;
+        for(int i=2;i<=n;i++){
+            ways[i]=ways[i-1]+ways[i-2];
+           
         }
-
-        return prev1;
+         return ways[n];
     }
 };
