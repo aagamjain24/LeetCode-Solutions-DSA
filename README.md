@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0260-single-number-iii/) | Medium |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 ## Hash Table
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
 | [0198-house-robber](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
