@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0001-two-sum/) | Easy |
 | [0013-roman-to-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0202-happy-number/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0202-happy-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 ## Bit Manipulation
@@ -98,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
+| [0202-happy-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
