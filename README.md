@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2315-count-asterisks](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2315-count-asterisks/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Trie
