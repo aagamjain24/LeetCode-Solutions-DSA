@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Trie
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0258-add-digits](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
+| [3614-process-string-with-special-operations-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
