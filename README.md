@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0260-single-number-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [2351-first-letter-to-appear-twice](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2315-count-asterisks](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2315-count-asterisks/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Trie
@@ -222,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
+| [2351-first-letter-to-appear-twice](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 <!---LeetCode Topics End-->
