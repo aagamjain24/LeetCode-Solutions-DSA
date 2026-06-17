@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0160-intersection-of-two-linked-lists](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0202-happy-number/) | Easy |
+| [0771-jewels-and-stones](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0020-valid-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0412-fizz-buzz](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0771-jewels-and-stones](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
