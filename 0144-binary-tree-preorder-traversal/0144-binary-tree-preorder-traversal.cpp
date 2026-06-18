@@ -11,17 +11,17 @@
  */
 class Solution {
 public:
-    void dfs(TreeNode* root, vector<int>& ans) {
-        if (root == nullptr) return;
-
-        ans.push_back(root->val); // Root
-        dfs(root->left, ans);     // Left
-        dfs(root->right, ans);    // Right
+void preorder(TreeNode* root,vector<int>& ans){
+    if(root==nullptr){
+        return;
     }
-
+    ans.push_back(root->val);
+    preorder(root->left,ans);
+    preorder(root->right,ans);
+}
     vector<int> preorderTraversal(TreeNode* root) {
-        vector<int> ans;
-        dfs(root, ans);
+        vector<int>ans;
+       preorder(root,ans); 
         return ans;
     }
 };
