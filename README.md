@@ -212,17 +212,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
@@ -238,4 +241,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 <!---LeetCode Topics End-->
