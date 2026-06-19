@@ -17,6 +17,7 @@ vector<vector<int>>solve(TreeNode* root, int target,vector<int>res,vector<vector
      res.push_back(root->val);
     if(root->left==NULL && root->right==NULL && root->val==target){
         ans.push_back(res);
+
     }
     else if(root->left==NULL && root->right==NULL && root->val!=target){
         res.pop_back();
