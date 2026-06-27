@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2140-solving-questions-with-brainpower](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1310-xor-queries-of-a-subarray](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -188,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Binary Indexed Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -200,12 +204,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Merge Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
+| [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
