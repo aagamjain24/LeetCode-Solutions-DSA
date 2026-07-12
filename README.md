@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
+| [1331-rank-transform-of-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0202-happy-number/) | Easy |
 | [0771-jewels-and-stones](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
+| [1331-rank-transform-of-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
@@ -175,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [1331-rank-transform-of-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Heap (Priority Queue)
