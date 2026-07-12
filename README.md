@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2140-solving-questions-with-brainpower](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Number Theory
@@ -173,10 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [1833-maximum-ice-cream-bars](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
