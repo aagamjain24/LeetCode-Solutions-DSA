@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0046-permutations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0046-permutations/) | Medium |
 | [0120-triangle](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0122-best-time-to-buy-and-sell-stock-ii/) | Medium |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0022-generate-parentheses/) | Medium |
+| [0046-permutations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0046-permutations/) | Medium |
 | [0113-path-sum-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0113-path-sum-ii/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
