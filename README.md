@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0493-reverse-pairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0493-reverse-pairs/) | Hard |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
+| [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 ## Memoization
@@ -306,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1833-maximum-ice-cream-bars](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 <!---LeetCode Topics End-->
