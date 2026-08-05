@@ -1,6 +1,6 @@
 class Solution {
 public:
-void solve(vector<int>& nums,vector<vector<int>>& ans,vector<int>res,int idx){
+void solve(vector<int>& nums,vector<vector<int>>& ans,vector<int>& res,int idx){
     if(idx==nums.size()){
         ans.push_back(res);
         return;
