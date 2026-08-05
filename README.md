@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0001-two-sum/) | Easy |
 | [0014-longest-common-prefix](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0014-longest-common-prefix/) | Easy |
+| [0031-next-permutation](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0046-permutations/) | Medium |
 | [0079-word-search](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0079-word-search/) | Medium |
 | [0120-triangle](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0120-triangle/) | Medium |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
+| [0031-next-permutation](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0031-next-permutation/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
