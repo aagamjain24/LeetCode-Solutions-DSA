@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0014-longest-common-prefix/) | Easy |
 | [0031-next-permutation](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0031-next-permutation/) | Medium |
 | [0046-permutations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0079-word-search/) | Medium |
 | [0120-triangle](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0120-triangle/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0136-single-number/) | Easy |
 | [0260-single-number-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0645-set-mismatch](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0645-set-mismatch/) | Easy |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0046-permutations/) | Medium |
+| [0078-subsets](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0078-subsets/) | Medium |
 | [0079-word-search](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0079-word-search/) | Medium |
 | [0113-path-sum-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0113-path-sum-ii/) | Medium |
 ## Counting Sort
