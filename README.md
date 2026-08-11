@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0013-roman-to-integer/) | Easy |
 | [0062-unique-paths](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0168-excel-sheet-column-title](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0202-happy-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0202-happy-number/) | Easy |
 | [0258-add-digits](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0022-generate-parentheses/) | Medium |
 | [0079-word-search](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0079-word-search/) | Medium |
+| [0168-excel-sheet-column-title](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0412-fizz-buzz](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
