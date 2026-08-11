@@ -344,4 +344,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0176-second-highest-salary](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
