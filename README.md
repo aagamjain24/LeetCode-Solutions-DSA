@@ -347,5 +347,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0175-combine-two-tables](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0175-combine-two-tables/) | Easy |
 | [0176-second-highest-salary](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0176-second-highest-salary/) | Medium |
 <!---LeetCode Topics End-->
