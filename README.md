@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0188-best-time-to-buy-and-sell-stock-iv/) | Hard |
 | [0198-house-robber](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0213-house-robber-ii/) | Medium |
+| [0228-summary-ranges](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0228-summary-ranges/) | Easy |
 | [0260-single-number-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0260-single-number-iii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
