@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Depth-First Search
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
@@ -311,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Matrix
@@ -368,5 +371,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 <!---LeetCode Topics End-->
