@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2351-first-letter-to-appear-twice](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3731-find-missing-elements](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Math
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2278-percentage-of-letter-in-string](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2278-percentage-of-letter-in-string/) | Easy |
 | [2315-count-asterisks](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2315-count-asterisks/) | Easy |
 | [2351-first-letter-to-appear-twice](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2351-first-letter-to-appear-twice/) | Easy |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Trie
@@ -370,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
