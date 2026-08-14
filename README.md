@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1221-split-a-string-in-balanced-strings](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [1941-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1941-check-if-all-characters-have-equal-number-of-occurrences/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0224-basic-calculator/) | Hard |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0258-add-digits](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [0412-fizz-buzz](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [1910-remove-all-occurrences-of-a-substring](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [3612-process-string-with-special-operations-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
