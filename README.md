@@ -281,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -299,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 ## Binary Tree
@@ -315,6 +317,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 | [0113-path-sum-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0113-path-sum-ii/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
@@ -342,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
+| [0199-binary-tree-right-side-view](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
