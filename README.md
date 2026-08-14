@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0224-basic-calculator/) | Hard |
 | [0412-fizz-buzz](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0771-jewels-and-stones/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1221-split-a-string-in-balanced-strings](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0224-basic-calculator](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0224-basic-calculator/) | Hard |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
