@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0202-happy-number/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0645-set-mismatch](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0645-set-mismatch/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0771-jewels-and-stones](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -300,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Depth-First Search
@@ -320,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -342,6 +346,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Matrix
@@ -367,6 +372,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -407,6 +413,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0230-kth-smallest-element-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0230-kth-smallest-element-in-a-bst/) | Medium |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0450-delete-node-in-a-bst/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 ## Binary Lifting
