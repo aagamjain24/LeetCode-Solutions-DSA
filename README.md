@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3731-find-missing-elements](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3731-find-missing-elements](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3731-find-missing-elements/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 ## Math
