@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2426-number-of-pairs-satisfying-inequality](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2426-number-of-pairs-satisfying-inequality/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 | [3731-find-missing-elements](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3731-find-missing-elements/) | Easy |
@@ -205,6 +206,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 | [3614-process-string-with-special-operations-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3614-process-string-with-special-operations-ii/) | Hard |
 ## Number Theory
