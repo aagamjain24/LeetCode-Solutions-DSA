@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0263-ugly-number/) | Easy |
 | [0412-fizz-buzz](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
+| [0509-fibonacci-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
 | [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0509-fibonacci-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
@@ -128,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0070-climbing-stairs/) | Easy |
+| [0509-fibonacci-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0224-basic-calculator](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0224-basic-calculator/) | Hard |
+| [0509-fibonacci-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0509-fibonacci-number/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
