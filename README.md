@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0213-house-robber-ii/) | Medium |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0309-best-time-to-buy-and-sell-stock-with-cooldown/) | Medium |
+| [0392-is-subsequence](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0509-fibonacci-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0171-excel-sheet-column-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0171-excel-sheet-column-number/) | Easy |
 | [0224-basic-calculator](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0224-basic-calculator/) | Hard |
+| [0392-is-subsequence](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0412-fizz-buzz](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0771-jewels-and-stones](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0771-jewels-and-stones/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -184,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0202-happy-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0202-happy-number/) | Easy |
 | [0295-find-median-from-data-stream](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
+| [0392-is-subsequence](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
