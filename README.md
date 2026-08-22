@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1344-angle-between-hands-of-a-clock](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [3345-smallest-divisible-digit-product-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3345-smallest-divisible-digit-product-i/) | Easy |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
