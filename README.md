@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [1310-xor-queries-of-a-subarray](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0645-set-mismatch](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0645-set-mismatch/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2402-meeting-rooms-iii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2402-meeting-rooms-iii/) | Hard |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
