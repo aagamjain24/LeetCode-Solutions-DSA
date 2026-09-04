@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
 | [3875-construct-uniform-parity-array-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3876-construct-uniform-parity-array-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3876-construct-uniform-parity-array-ii/) | Medium |
+| [3903-smallest-stable-index-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3739-count-subarrays-with-majority-element-ii](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3739-count-subarrays-with-majority-element-ii/) | Hard |
+| [3903-smallest-stable-index-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
