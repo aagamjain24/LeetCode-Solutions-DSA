@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0315-count-of-smaller-numbers-after-self](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0315-count-of-smaller-numbers-after-self/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0493-reverse-pairs](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0493-reverse-pairs/) | Hard |
+| [0643-maximum-average-subarray-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0645-set-mismatch](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
@@ -424,6 +425,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3090-maximum-length-substring-with-two-occurrences/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
