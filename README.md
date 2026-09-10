@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0645-set-mismatch/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1310-xor-queries-of-a-subarray](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1310-xor-queries-of-a-subarray/) | Medium |
 | [1331-rank-transform-of-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -213,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0295-find-median-from-data-stream](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0392-is-subsequence](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0392-is-subsequence/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -263,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- | ------- |
 | [0295-find-median-from-data-stream](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0295-find-median-from-data-stream/) | Hard |
 | [0645-set-mismatch](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0645-set-mismatch/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
