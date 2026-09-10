@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -365,6 +366,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -391,6 +393,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0700-search-in-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
 | [0701-insert-into-a-binary-search-tree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2265-count-nodes-equal-to-average-of-subtree/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
