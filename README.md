@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0728-self-dividing-numbers](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0728-self-dividing-numbers/) | Easy |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0762-prime-number-of-set-bits-in-binary-representation/) | Easy |
+| [0836-rectangle-overlap](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1344-angle-between-hands-of-a-clock](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1344-angle-between-hands-of-a-clock/) | Medium |
@@ -496,4 +497,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0459-repeated-substring-pattern](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->
