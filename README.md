@@ -181,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0412-fizz-buzz/) | Easy |
 | [0459-repeated-substring-pattern](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0459-repeated-substring-pattern/) | Easy |
 | [0771-jewels-and-stones](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0771-jewels-and-stones/) | Easy |
+| [1021-remove-outermost-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [1189-maximum-number-of-balloons](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1189-maximum-number-of-balloons/) | Easy |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0144-binary-tree-preorder-traversal](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0224-basic-calculator](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0224-basic-calculator/) | Hard |
+| [1021-remove-outermost-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1910-remove-all-occurrences-of-a-substring](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1910-remove-all-occurrences-of-a-substring/) | Medium |
@@ -511,5 +513,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1021-remove-outermost-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 <!---LeetCode Topics End-->
