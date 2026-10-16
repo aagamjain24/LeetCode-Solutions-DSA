@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [1929-concatenation-of-array](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1929-concatenation-of-array/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0509-fibonacci-number/) | Easy |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0877-stone-game](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/0877-stone-game/) | Medium |
+| [1911-maximum-alternating-subsequence-sum](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/1911-maximum-alternating-subsequence-sum/) | Medium |
 | [2140-solving-questions-with-brainpower](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/2140-solving-questions-with-brainpower/) | Medium |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/aagamjain24/LeetCode-Solutions-DSA/tree/main/3573-best-time-to-buy-and-sell-stock-v/) | Medium |
 ## Memoization
